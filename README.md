@@ -1,4 +1,4 @@
-# Some_Exp
+# SomePoc
 - CVE-2020-11989
 - CVE-2020-1947
 - QNAP QTS RCE
