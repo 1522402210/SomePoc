@@ -1,5 +1,6 @@
 # SomePoc
 - CVE-2020-11989
+- CVE-2020-1948
 - CVE-2020-1947
 - QNAP QTS RCE
 - Skywalking Sqli
