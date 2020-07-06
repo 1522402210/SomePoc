@@ -4,3 +4,4 @@
 - CVE-2020-1947
 - QNAP QTS RCE
 - Skywalking Sqli
+- CVE-2020-5902
