@@ -1,4 +1,4 @@
-# CVE-2020-1948/Apache Dubbo RPC RCE
+# TD RCE
 Versions Affected:
 
 - 制定版本11.6
