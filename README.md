@@ -7,3 +7,4 @@
 - CVE-2019-7192/QNAP QTS and PhotoStation RCE
 - CVE-2020-9483/Skywalking Sqli
 - CVE-2020-8193/Citrix ADC RCE
+- TD RCE 
